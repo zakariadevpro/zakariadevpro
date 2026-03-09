@@ -1,5 +1,5 @@
 # zakaria_dev
-# 💫 About Me:
+# 💫 About Me :
 🔭 I’m building full-stack web apps  <br>👯 I’m open to web and SaaS projects  <br>🤝 I want to improve system design  <br>🌱 I’m learning DevOps and architecture  <br>💬 Ask me about React, Next.js, NestJS, Laravel  <br>⚡ Fun fact: I love frontend 
 
 
