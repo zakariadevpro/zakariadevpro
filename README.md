@@ -84,7 +84,9 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 <div align="center">
 
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro&repo=your-repo&bg_color=333333&title_color=F0C420&icon_color=F0C420&text_color=dddddd)](https://github.com/zakariadevpro/your-repo)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro&repo=portfolio&bg_color=333333&title_color=F0C420&icon_color=F0C420&text_color=dddddd)](https://github.com/zakariadevpro/portfolio)
+
+[![Playliste Downloader](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro&repo=Playliste-downloader&bg_color=333333&title_color=F0C420&icon_color=F0C420&text_color=dddddd)](https://github.com/zakariadevpro/Playliste-downloader)
 
 </div>
 
