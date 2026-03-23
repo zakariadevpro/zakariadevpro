@@ -21,9 +21,9 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-discord-8FFF86?style=for-the-badge\&logoColor=0f0f0f\&logo=discord)](https://discord.gg/zakaria_dev)
-[![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge\&logoColor=0f0f0f\&logo=linkedin)](https://www.linkedin.com/in/zakaria-saidi-96775a340/)
-[![](https://img.shields.io/badge/-email-8FFF86?style=for-the-badge\&logoColor=0f0f0f\&logo=gmail)](mailto:zakariadevpro@gmail.com)
+[![](https://img.shields.io/badge/-discord-FFD700?style=for-the-badge&logoColor=0f0f0f&logo=discord)](https://discord.gg/zakaria_dev)
+[![](https://img.shields.io/badge/-linkedin-FFD700?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/zakaria-saidi-96775a340/)
+[![](https://img.shields.io/badge/-email-FFD700?style=for-the-badge&logoColor=0f0f0f&logo=gmail)](mailto:zakariadevpro@gmail.com)
 
 </div>
 
@@ -33,39 +33,39 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 <div align="center">
 
-![](https://img.shields.io/badge/Code-JavaScript-8FFF86?style=flat-square\&logoColor=ffffff\&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-8FFF86?style=flat-square\&logoColor=ffffff\&logo=typescript)
-![](https://img.shields.io/badge/Code-PHP-8FFF86?style=flat-square\&logoColor=ffffff\&logo=php)
-![](https://img.shields.io/badge/Code-Python-8FFF86?style=flat-square\&logoColor=ffffff\&logo=python)
+![](https://img.shields.io/badge/Code-JavaScript-FFD700?style=flat-square&logoColor=ffffff&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-FFD700?style=flat-square&logoColor=ffffff&logo=typescript)
+![](https://img.shields.io/badge/Code-PHP-FFD700?style=flat-square&logoColor=ffffff&logo=php)
+![](https://img.shields.io/badge/Code-Python-FFD700?style=flat-square&logoColor=ffffff&logo=python)
 
-![](https://img.shields.io/badge/Frontend-React-8FFF86?style=flat-square\&logoColor=ffffff\&logo=react)
-![](https://img.shields.io/badge/Frontend-Next.js-8FFF86?style=flat-square\&logoColor=ffffff\&logo=nextdotjs)
-![](https://img.shields.io/badge/Frontend-Tailwind-8FFF86?style=flat-square\&logoColor=ffffff\&logo=tailwind-css)
+![](https://img.shields.io/badge/Frontend-React-FFD700?style=flat-square&logoColor=ffffff&logo=react)
+![](https://img.shields.io/badge/Frontend-Next.js-FFD700?style=flat-square&logoColor=ffffff&logo=nextdotjs)
+![](https://img.shields.io/badge/Frontend-Tailwind-FFD700?style=flat-square&logoColor=ffffff&logo=tailwind-css)
 
-![](https://img.shields.io/badge/Backend-Node.js-8FFF86?style=flat-square\&logoColor=ffffff\&logo=node.js)
-![](https://img.shields.io/badge/Backend-NestJS-8FFF86?style=flat-square\&logoColor=ffffff\&logo=nestjs)
-![](https://img.shields.io/badge/Backend-Laravel-8FFF86?style=flat-square\&logoColor=ffffff\&logo=laravel)
-![](https://img.shields.io/badge/Backend-Django-8FFF86?style=flat-square\&logoColor=ffffff\&logo=django)
-![](https://img.shields.io/badge/API-FastAPI-8FFF86?style=flat-square\&logoColor=ffffff\&logo=fastapi)
+![](https://img.shields.io/badge/Backend-Node.js-FFD700?style=flat-square&logoColor=ffffff&logo=node.js)
+![](https://img.shields.io/badge/Backend-NestJS-FFD700?style=flat-square&logoColor=ffffff&logo=nestjs)
+![](https://img.shields.io/badge/Backend-Laravel-FFD700?style=flat-square&logoColor=ffffff&logo=laravel)
+![](https://img.shields.io/badge/Backend-Django-FFD700?style=flat-square&logoColor=ffffff&logo=django)
+![](https://img.shields.io/badge/API-FastAPI-FFD700?style=flat-square&logoColor=ffffff&logo=fastapi)
 
-![](https://img.shields.io/badge/Database-MySQL-8FFF86?style=flat-square\&logoColor=ffffff\&logo=mysql)
-![](https://img.shields.io/badge/Database-PostgreSQL-8FFF86?style=flat-square\&logoColor=ffffff\&logo=postgresql)
-![](https://img.shields.io/badge/Database-MongoDB-8FFF86?style=flat-square\&logoColor=ffffff\&logo=mongodb)
-![](https://img.shields.io/badge/Cache-Redis-8FFF86?style=flat-square\&logoColor=ffffff\&logo=redis)
+![](https://img.shields.io/badge/Database-MySQL-FFD700?style=flat-square&logoColor=ffffff&logo=mysql)
+![](https://img.shields.io/badge/Database-PostgreSQL-FFD700?style=flat-square&logoColor=ffffff&logo=postgresql)
+![](https://img.shields.io/badge/Database-MongoDB-FFD700?style=flat-square&logoColor=ffffff&logo=mongodb)
+![](https://img.shields.io/badge/Cache-Redis-FFD700?style=flat-square&logoColor=ffffff&logo=redis)
 
-![](https://img.shields.io/badge/ORM-Prisma-8FFF86?style=flat-square\&logoColor=ffffff\&logo=prisma)
+![](https://img.shields.io/badge/ORM-Prisma-FFD700?style=flat-square&logoColor=ffffff&logo=prisma)
 
-![](https://img.shields.io/badge/DevOps-Docker-8FFF86?style=flat-square\&logoColor=ffffff\&logo=docker)
-![](https://img.shields.io/badge/CI/CD-GitHub_Actions-8FFF86?style=flat-square\&logoColor=ffffff\&logo=githubactions)
-![](https://img.shields.io/badge/CI/CD-GitLab_CI-8FFF86?style=flat-square\&logoColor=ffffff\&logo=gitlab)
-![](https://img.shields.io/badge/Cloud-AWS-8FFF86?style=flat-square\&logoColor=ffffff\&logo=amazonaws)
-![](https://img.shields.io/badge/Hosting-Vercel-8FFF86?style=flat-square\&logoColor=ffffff\&logo=vercel)
+![](https://img.shields.io/badge/DevOps-Docker-FFD700?style=flat-square&logoColor=ffffff&logo=docker)
+![](https://img.shields.io/badge/CI/CD-GitHub_Actions-FFD700?style=flat-square&logoColor=ffffff&logo=githubactions)
+![](https://img.shields.io/badge/CI/CD-GitLab_CI-FFD700?style=flat-square&logoColor=ffffff&logo=gitlab)
+![](https://img.shields.io/badge/Cloud-AWS-FFD700?style=flat-square&logoColor=ffffff&logo=amazonaws)
+![](https://img.shields.io/badge/Hosting-Vercel-FFD700?style=flat-square&logoColor=ffffff&logo=vercel)
 
-![](https://img.shields.io/badge/Tool-Git-8FFF86?style=flat-square\&logoColor=ffffff\&logo=git)
-![](https://img.shields.io/badge/Tool-Docker-8FFF86?style=flat-square\&logoColor=ffffff\&logo=docker)
-![](https://img.shields.io/badge/Tool-Postman-8FFF86?style=flat-square\&logoColor=ffffff\&logo=postman)
-![](https://img.shields.io/badge/Tool-Jira-8FFF86?style=flat-square\&logoColor=ffffff\&logo=jira)
-![](https://img.shields.io/badge/Tool-Figma-8FFF86?style=flat-square\&logoColor=ffffff\&logo=figma)
+![](https://img.shields.io/badge/Tool-Git-FFD700?style=flat-square&logoColor=ffffff&logo=git)
+![](https://img.shields.io/badge/Tool-Docker-FFD700?style=flat-square&logoColor=ffffff&logo=docker)
+![](https://img.shields.io/badge/Tool-Postman-FFD700?style=flat-square&logoColor=ffffff&logo=postman)
+![](https://img.shields.io/badge/Tool-Jira-FFD700?style=flat-square&logoColor=ffffff&logo=jira)
+![](https://img.shields.io/badge/Tool-Figma-FFD700?style=flat-square&logoColor=ffffff&logo=figma)
 
 </div>
 
@@ -74,8 +74,8 @@ My current journey is focused on improving my knowledge in system design, DevOps
 <h2 align="center">My GitHub Stats</h2>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakariadevpro&count_private=true&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariadevpro&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakariadevpro&count_private=true&show_icons=true&bg_color=333333&title_color=FFD700&icon_color=FFD700&text_color=dddddd"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariadevpro&show_icons=true&bg_color=333333&title_color=FFD700&icon_color=FFD700&text_color=dddddd&layout=compact"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 <div align="center">
 
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro\&repo=your-repo\&bg_color=333333\&title_color=8FFF86\&icon_color=8FFF86\&text_color=dddddd)](https://github.com/zakariadevpro/your-repo)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro&repo=your-repo&bg_color=333333&title_color=FFD700&icon_color=FFD700&text_color=dddddd)](https://github.com/zakariadevpro/your-repo)
 
 </div>
 
@@ -92,6 +92,6 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=zakariadevpro\&icon=0\&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zakariadevpro&icon=0&color=FFD700)](https://visitcount.itsvg.in)
 
 </div>
