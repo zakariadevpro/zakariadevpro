@@ -1,19 +1,76 @@
 # zakariadevpro
-# 💫 About Me :
-🔭 I’m building full-stack web apps  <br>👯 I’m open to web and SaaS projects  <br>🤝 I want to improve system design  <br>🌱 I’m learning DevOps and architecture  <br>💬 Ask me about React, Next.js, NestJS, Laravel  <br>⚡ Fun fact: I love frontend 
+<img src="images/cover.png" alt="Stefano Bartoletti">
 
+# Hi, I'm Stefano! 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zakaria_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zakaria-saidi-96775a340/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakariadevpro@gmail.com) 
+I'm a freelance Front-End Web Developer.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=zakariadevpro&theme=one_dark_pro&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariadevpro&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=zakariadevpro&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
+My focus is on creative development, the core of my skills can be described as the meeting point between creativity and technical proficiency.
+ 
+My typical projects involve integrating complex but smooth animations and interactions, to present all the website information in an engaging way and make it a memorable experience.
 
+I strive to deliver projects that are visually compelling by working closely with the designer, but also technically outstanding with a clean and properly structured code. All of this, without forgetting about web performance and technical SEO aspects.
 
+My favorite technologies are based on JAMstack/Composable architecture: while my focus is on front-end development, I can also take care of all other stages of the whole development process, from the CMS configuration to the live deployment on the hosting platform.
+
+<h2 align="center">My Online Presence</h2>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/-website-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://www.stefanobartoletti.it/)
+[![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/stefanobartoletti/)
+[![](https://img.shields.io/badge/-instagram-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/stefanobartoletti.it/)
+[![](https://img.shields.io/badge/-x/twitter-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/ste_bartoletti/)
+[![](https://img.shields.io/badge/-dev-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=devdotto)](https://dev.to/stefanobartoletti/)
+
+</div>
+
+<h2 align="center">My Techs & Tools</h2>
+
+<div align="center">
+
+![](https://img.shields.io/badge/OS-Linux-8FFF86?style=flat-square&logoColor=ffffff&logo=linux)
+![](https://img.shields.io/badge/Editor-VS_Code-8FFF86?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
+![](https://img.shields.io/badge/Design-Figma-8FFF86?style=flat-square&logoColor=ffffff&logo=figma)
+![](https://img.shields.io/badge/Code-JavaScript-8FFF86?style=flat-square&logoColor=ffffff&logo=javascript)
+![](https://img.shields.io/badge/Code-CSS-8FFF86?style=flat-square&logoColor=ffffff&logo=css3)
+![](https://img.shields.io/badge/Code-Sass-8FFF86?style=flat-square&logoColor=ffffff&logo=sass)
+![](https://img.shields.io/badge/Code-Vue.js-8FFF86?style=flat-square&logoColor=ffffff&logo=vuedotjs)
+![](https://img.shields.io/badge/Code-Nuxt-8FFF86?style=flat-square&logoColor=ffffff&logo=nuxtdotjs)
+![](https://img.shields.io/badge/Code-Tailwind-8FFF86?style=flat-square&logoColor=ffffff&logo=tailwind-css)
+![](https://img.shields.io/badge/Tool-Bash-8FFF86?style=flat-square&logoColor=ffffff&logo=gnu-bash)
+![](https://img.shields.io/badge/Platform-Docker-8FFF86?style=flat-square&logoColor=ffffff&logo=docker)
+![](https://img.shields.io/badge/Platform-Storyblok-8FFF86?style=flat-square&logoColor=ffffff&logo=storyblok)
+![](https://img.shields.io/badge/Platform-Netlify-8FFF86?style=flat-square&logoColor=ffffff&logo=netlify)
+<!-- ![](https://img.shields.io/badge/OS-openSUSE-8FFF86?style=flat-square&logoColor=ffffff&logo=opensuse) -->
+<!-- ![](https://img.shields.io/badge/OS-KDE-8FFF86?style=flat-square&logoColor=ffffff&logo=kde) -->
+<!-- ![](https://img.shields.io/badge/Design-Inkscape-8FFF86?style=flat-square&logoColor=ffffff&logo=inkscape) -->
+<!-- ![](https://img.shields.io/badge/Code-WordPress-8FFF86?style=flat-square&logoColor=ffffff&logo=wordpress) -->
+<!-- ![](https://img.shields.io/badge/Code-Bootstrap-8FFF86?style=flat-square&logoColor=ffffff&logo=bootstrap) -->
+<!-- ![](https://img.shields.io/badge/Tool-Yarn-8FFF86?style=flat-square&logoColor=ffffff&logo=yarn) -->
+<!-- ![](https://img.shields.io/badge/Tool-Gulp-8FFF86?style=flat-square&logoColor=ffffff&logo=gulp) -->
+<!-- ![](https://img.shields.io/badge/Tool-Rollup-8FFF86?style=flat-square&logoColor=ffffff&logo=rollupdotjs) -->
+<!-- ![](https://img.shields.io/badge/Platform-DigitalOcean-8FFF86?style=flat-square&logoColor=ffffff&logo=digitalocean) -->
+
+</div>
+
+<h2 align="center">My GitHub Stats</h2>
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanobartoletti&count_private=true&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd" alt="Stefano Bartoletti's GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobartoletti&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
+</div>
+
+<h2 align="center">My Open-Source Projects</h2>
+
+<div align="center">
+
+[![Nuxt Social Share](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=nuxt-social-share&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/nuxt-social-share)
+[![Eslint Config](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=eslint-config&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/eslint-config)
+<!-- [![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/bricks) -->
+<!-- [![Bricks Documentation](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks-docs&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/bricks-docs) -->
+
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=zakariadevpro&icon=0&color=0)](https://visitcount.itsvg.in)
 
