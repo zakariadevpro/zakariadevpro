@@ -27,7 +27,7 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 </div>
 
----
+
 
 <h2 align="center">My Techs & Tools</h2>
 
@@ -69,7 +69,7 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 </div>
 
----
+
 
 <h2 align="center">My GitHub Stats</h2>
 
@@ -78,7 +78,7 @@ My current journey is focused on improving my knowledge in system design, DevOps
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariadevpro&show_icons=true&bg_color=333333&title_color=DAA520&icon_color=DAA520&text_color=dddddd&layout=compact"/>
 </div>
 
----
+
 
 <h2 align="center">My Open-Source Projects</h2>
 
@@ -88,7 +88,7 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 </div>
 
----
+
 
 <div align="center">
 
