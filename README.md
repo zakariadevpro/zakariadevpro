@@ -97,4 +97,4 @@ My current journey is focused on improving my knowledge in system design, DevOps
 [![](https://visitcount.itsvg.in/api?id=zakariadevpro&icon=0&color=DAA520)](https://visitcount.itsvg.in)
 
 </div>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zakariadevpro&bg_color=333333&color=F0C420&line=F0C420&point=F0C420&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariadevpro&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=0&fire=F0C420)
