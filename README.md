@@ -1,4 +1,5 @@
-<img src="images/cover.png" alt="Zakaria Saidi">
+<img width="1778" height="592" alt="Gemini_Generated_Image_1uv5te1uv5te1uv5 (1)" src="https://github.com/user-attachments/assets/168d27f8-7f5b-4cda-be17-a3b9b875615f" />
+
 
 # Hi, I'm Zakaria! 👋
 
