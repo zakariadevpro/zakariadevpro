@@ -15,7 +15,7 @@ I strive to deliver applications that are both technically solid and visually cl
 
 My current journey is focused on improving my knowledge in system design, DevOps, and scalable architectures, while continuing to build impactful full-stack solutions.
 
----
+
 
 <h2 align="center">My Online Presence</h2>
 
