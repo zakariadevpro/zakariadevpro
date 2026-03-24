@@ -82,16 +82,7 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 <h2 align="center">My Open-Source Projects</h2>
 
-<div align="center">
-
-[![MY portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro&repo=portfolio&bg_color=333333&title_color=F0C420&icon_color=F0C420&text_color=dddddd)](https://github.com/zakariadevpro/portfolio)
-
-<br/>
-
-🚀 Modern Full-Stack Developer Portfolio with clean UI, interactive design, and premium experience.
-
-</div>
-
+[![MY portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro&repo=portfolio&bg_color=333333&title_color=F0C420&icon_color=F0C420&text_color=dddddd&cache_seconds=0)](https://github.com/zakariadevpro/portfolio)
 
 
 <div align="center">
