@@ -71,25 +71,4 @@ My current journey is focused on improving my knowledge in system design, DevOps
 
 
 
-<h2 align="center">My GitHub Stats</h2>
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakariadevpro&count_private=true&show_icons=true&bg_color=333333&title_color=DAA520&icon_color=DAA520&text_color=dddddd"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariadevpro&show_icons=true&bg_color=333333&title_color=DAA520&icon_color=DAA520&text_color=dddddd&layout=compact"/>
-</div>
-
-
-
-<h2 align="center">My Open-Source Projects</h2>
-<div align="center">
-
-[![MY portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zakariadevpro&repo=portfolio&bg_color=333333&title_color=F0C420&icon_color=F0C420&text_color=dddddd&cache_seconds=0)](https://github.com/zakariadevpro/portfolio)
-</div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=zakariadevpro&icon=0&color=DAA520)](https://visitcount.itsvg.in)
-
-</div>
-
 
